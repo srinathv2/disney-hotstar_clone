@@ -1,16 +1,7 @@
-# hotstar
+# disney+hotstar clone
 
-A new Flutter project.
+A Flutter disney+hotstar clone(only frontend) project.
 
-## Getting Started
+## details
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is contains only the frontend part and also I just want get the jist of disney+hotstar frontend part so i did this and it consists all main features and the repetitive things like every page is not filled with the images of movies,series,etc i did this for only for home page but i showed all features in it.
